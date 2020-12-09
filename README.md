@@ -1,4 +1,4 @@
-# Detecting nearshore bathymetry from ICESat-2 ATLO3 returns around Aasiaat, Greenland 
+# Detecting nearshore bathymetry from ICESat-2 ATLO3 returns around Aasiaat, Greenland and Nuuk, Greenland
 
 ## Background
 Nearshore bathymetry is difficult to obtain due to boat-based traditional sampling methods - essentially, sampling is limited to how close to shore a boat can go before getting stuck or risking damage. Therefore, drone or satellite based LiDAR is one of the only used to sample the region closest to the shore. ICESat-2, launched in 2018, has a green laser that can penetrate up to 30 m depth. 
@@ -10,4 +10,4 @@ Nearshore bathymetry is difficult to obtain due to boat-based traditional sampli
 
 
 ## Scope of Project
-I will first perform a refraction correction on the data to correct for the change in refraction index as the laser travels through the water column. I will further correct the altimetry data to be referenced to the geoid. My plots will include a repeat track plot of each pass over the region; an altimetry profile featuring bathymetric features with reference tracks; a coverage map of where bathymetry is present in the region; a comparison with MBES data collected in Aasiaat and other bathymetric datasets.  
+The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it?  I will first perform a refraction correction on the data to correct for the change in refraction index as the laser travels through the water column and further correct the altimetry data to be referenced to the geoid. I will plot coverage maps around areas of interest and compare ATL03, ATLO6, and ATL08 returns. 
