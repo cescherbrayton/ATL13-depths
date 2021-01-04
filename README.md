@@ -10,4 +10,4 @@ Nearshore bathymetry is difficult to obtain due to boat-based traditional sampli
 
 
 ## Scope of Project
-The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it?  I will first perform a refraction correction on the data to correct for the change in refraction index as the laser travels through the water column and further correct the altimetry data to be referenced to the geoid. I will plot coverage maps around areas of interest and compare ATL03 and ATL13 returns. 
+The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it using ATL13? ANalysis includest coverage maps around areas of interest and compare ATL03, ATL06, ATL08, and ATL13 returns. 
