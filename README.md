@@ -6,9 +6,11 @@ Nearshore bathymetry is difficult to obtain due to boat-based traditional sampli
 ## Dataset
 [ATL03 Download](https://nsidc.org/data/atl03)
 
-"This data set (ATL03) contains height above the WGS 84 ellipsoid (ITRF2014 reference frame), latitude, longitude, and time for all photons downlinked by the Advanced Topographic Laser Altimeter System (ATLAS) instrument on board the Ice, Cloud and land Elevation Satellite-2 (ICESat-2) observatory. The ATL03 product was designed to be a single source for all photon data and ancillary information needed by higher-level ATLAS/ICESat-2 products."
+"ATL03 contains height above the WGS 84 ellipsoid (ITRF2014 reference frame), latitude, longitude, and time for all photons downlinked by the Advanced Topographic Laser Altimeter System (ATLAS) instrument on board the Ice, Cloud and land Elevation Satellite-2 (ICESat-2) observatory. The ATL03 product was designed to be a single source for all photon data and ancillary information needed by higher-level ATLAS/ICESat-2 products."
 
 [ATL13 Download](https://nsidc.org/data/atl13)
+
+"ATL13 contains along-track water surface heights and descriptive statistics for inland water bodies. Water bodies include lakes, reservoirs, bays, and estuaries. Descriptive statistics include along-track surface slope (where data permit), mean and standard deviation, subsurface signal (532 nm) attenuation, wave height, and coarse depth to bottom topograph
 
 ## Scope of Project
 The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it using ATL13? ANalysis includest coverage maps around areas of interest and compare ATL03, ATL06, ATL08, and ATL13 returns. 
