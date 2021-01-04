@@ -10,7 +10,7 @@ Nearshore bathymetry is difficult to obtain due to boat-based traditional sampli
 
 [ATL13 Download](https://nsidc.org/data/atl13)
 
-"ATL13 contains along-track water surface heights and descriptive statistics for inland water bodies. Water bodies include lakes, reservoirs, bays, and estuaries. Descriptive statistics include along-track surface slope (where data permit), mean and standard deviation, subsurface signal (532 nm) attenuation, wave height, and coarse depth to bottom topograph
+"ATL13 contains along-track water surface heights and descriptive statistics for inland water bodies. Water bodies include lakes, reservoirs, bays, and estuaries. Descriptive statistics include ... coarse depth to bottom topography"
 
 ## Scope of Project
 The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it using ATL13? ANalysis includest coverage maps around areas of interest and compare ATL03, ATL06, ATL08, and ATL13 returns. 
