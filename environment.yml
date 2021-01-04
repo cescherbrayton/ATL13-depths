@@ -66,6 +66,7 @@ dependencies:
   - cryptography=3.1=py37hb09aad4_0
   - curl=7.71.1=he644dc0_5
   - cycler=0.10.0=py_2
+  - cython=0.29.21=py37h2531618_0
   - cytoolz=0.10.1=py37h516909a_0
   - dask=2.25.0=py_0
   - dask-core=2.25.0=py_0
