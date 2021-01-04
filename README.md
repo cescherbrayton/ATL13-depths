@@ -1,4 +1,4 @@
-# Detecting nearshore bathymetry from ICESat-2 ATLO3 returns around Aasiaat, Greenland and Nuuk, Greenland
+# Detecting nearshore bathymetry from ICESat-2 around Aasiaat, Greenland
 
 ## Background
 Nearshore bathymetry is difficult to obtain due to boat-based traditional sampling methods - essentially, sampling is limited to how close to shore a boat can go before getting stuck or risking damage. Therefore, drone or satellite based LiDAR is one of the only used to sample the region closest to the shore. ICESat-2, launched in 2018, has a green laser that can penetrate up to 30 m depth. 
