@@ -15,4 +15,4 @@ Nearshore bathymetry is difficult to obtain due to boat-based traditional sampli
 ## Scope of Project
 The larger scientific question concerns coverage of ICESat2 bathymetry: where is bathymetry visible and can you automate the process of finding it using ATL13? ANalysis includest coverage maps around areas of interest and compare ATL03, ATL06, ATL08, and ATL13 returns. 
 
-https://mybinder.org/v2/gh/cescherbrayton/rces-final-project/tree/master/HEAD
+https://mybinder.org/v2/gh/cescherbrayton/rces-final-project/HEAD
