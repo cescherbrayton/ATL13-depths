@@ -3,7 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
   - astropy=4.2=py38h27cfd23_0
   - blas=1.0=mkl
   - brotlipy=0.7.0=py38h27cfd23_1003
@@ -33,8 +34,9 @@ dependencies:
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libedit=3.1.20191231=h14c3975_1
   - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.1.0=hdf63c60_0
+  - libgcc-ng=9.3.0=h5dbcf3e_17
   - libgfortran-ng=7.3.0=hdf63c60_0
+  - libgomp=9.3.0=h5dbcf3e_17
   - libpng=1.6.37=hbc83047_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
   - libtiff=4.1.0=h2733197_1
@@ -52,7 +54,7 @@ dependencies:
   - numpy=1.19.2=py38h54aff64_0
   - numpy-base=1.19.2=py38hfa32c7d_0
   - olefile=0.46=py_0
-  - openssl=1.1.1i=h27cfd23_0
+  - openssl=1.1.1i=h7f98852_0
   - owslib=0.21.0=pyhd3eb1b0_0
   - pandas=1.1.5=py38ha9443f7_0
   - pathlib=1.0.1=py_1
