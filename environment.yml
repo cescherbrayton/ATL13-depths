@@ -3,13 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
+  - _libgcc_mutex=0.1=conda_forge
   - astropy=4.2=py38h27cfd23_0
   - blas=1.0=mkl
   - brotlipy=0.7.0=py38h27cfd23_1003
-  - ca-certificates=2020.12.8=h06a4308_0
+  - ca-certificates=2020.12.5=ha878542_0
   - cartopy=0.18.0=py38hee755e7_0
-  - certifi=2020.12.5=py38h06a4308_0
+  - certifi=2020.12.5=py38h578d9bd_0
   - cffi=1.14.4=py38h261ae71_0
   - chardet=4.0.0=py38h06a4308_1003
   - cryptography=3.3.1=py38h3c74f83_0
@@ -72,6 +72,7 @@ dependencies:
   - pysocks=1.7.1=py38h06a4308_0
   - python=3.8.5=h7579374_1
   - python-dateutil=2.8.1=py_0
+  - python_abi=3.8=1_cp38
   - pytz=2020.5=pyhd3eb1b0_0
   - pyyaml=5.3.1=py38h7b6447c_1
   - qt=5.9.7=h5867ecd_1
