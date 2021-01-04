@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
+  - _libgcc_mutex=0.1=main
   - astropy=4.2=py38h27cfd23_0
   - blas=1.0=mkl
   - brotlipy=0.7.0=py38h27cfd23_1003
