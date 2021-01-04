@@ -1,5 +1,6 @@
 name: is2
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
